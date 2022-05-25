@@ -20,3 +20,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋, I'm HZHERRR</h1>
+
+<h3 align="center">A passionate developer from china</h3>
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- 🌱 I’m currently learning **NLP and Network Security**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/941307914)
+
+- 📫 How to reach me **941307914@qq.com**
+
+---
+🎉My Todoist Stats:⬇️
