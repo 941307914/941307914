@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **941307914@qq.com**
 
+<br>
 🕵️I divide my energy between the following skills：
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=941307914)](https://github.com/anuraghazra/github-readme-stats)
