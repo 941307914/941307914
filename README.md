@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 🕵️I divide my energy between the following skills：
 
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=941307914)](https://github.com/anuraghazra/github-readme-stats)</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=941307914)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 🎉My Todoist Stats:⬇️
