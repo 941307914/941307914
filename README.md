@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm HZHERRR</h1>
+<h1 align="center">Hi 👋, I'm HZHERRR😴</h1>
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=941307914&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **941307914@qq.com**
 
-<br>
 🕵️I divide my energy between the following skills：
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=941307914)](https://github.com/anuraghazra/github-readme-stats)
