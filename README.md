@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/941307914)
 
-- 📫 How to reach me **941307914@qq.com**
+- 📫 How to reach me **hahnan@qq.com**
 
 🕵️I divide my energy between the following skills：
 
